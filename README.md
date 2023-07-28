@@ -1,10 +1,9 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
 
-
 Extensive ReVanced Extended builder  
 
-Get the [latest CI release](https://github.com/sixstrings/revanced-magisk-module/releases).
+Get the [latest CI release](inhttps://github.com/sixstrings/revanced-extended-magisk-module).
 
 [**mindetach module**](https://github.com/j-hc/mindetach-magisk) in the releases section detaches YouTube and YouTube Music from Play Store and blocks their forced updates.
 
