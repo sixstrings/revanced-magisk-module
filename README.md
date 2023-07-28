@@ -1,9 +1,6 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
-[! See Build Modules](https://github.com/sixstrings/revanced-extended-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/build.yml)
 
-
-[![CI](https://github.com/sixstrings/revanced-extended-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced Extended builder  
 
