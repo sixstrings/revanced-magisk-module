@@ -5,7 +5,7 @@ Extensive ReVanced Extended builder
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-extended-magisk-module).
 
-[**mindetach module**]
+[**mindetach module**](https://github.com/sixstrings/revanced-extended-magisk-module/releases/download/4/mindetach-v3.3.zip)
 in the releases section detaches YouTube and YouTube Music from Play Store and blocks their forced updates.
 
 ## Features
