@@ -3,7 +3,7 @@
 
 Extensive ReVanced Extended builder.
 
-[![Github All Releases](https://img.shields.io/github/downloads/sixtrings/revanced-extended-magisk-module/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/sixstrings/revanced-extended-magisk-module/total.svg)]()
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-extended-magisk-module).
 
