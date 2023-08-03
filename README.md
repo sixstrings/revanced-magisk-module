@@ -1,7 +1,9 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that use these modules and impersonate ReVanced and ReVanced Extended.
 
 
-Extensive ReVanced Extended builder  
+Extensive ReVanced Extended builder.
+
+[![Github All Releases](https://img.shields.io/github/downloads/sixtrings/revanced-extended-magisk-module/total.svg)]()
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-extended-magisk-module).
 
