@@ -2,7 +2,7 @@
 
 
 
-#Extensive ReVanced Extended (RVX) and ReVanced builder.
+## Extensive ReVanced Extended (RVX) and ReVanced builder.
 
 
 [![Github All Releases](https://img.shields.io/github/downloads/sixstrings/revanced-extended-magisk-module/total.svg)]()
