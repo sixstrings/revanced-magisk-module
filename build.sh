@@ -94,6 +94,7 @@ for table_name in $(toml_get_table_names); do
 		app_args[ptjar]=$rv_patches_jar
 		app_args[ptjs]=$rv_patches_json
 	fi
+	if [[ $(java -jar "${app_args[cli]}" --help) == *rip-lib* ]]; then app_args[riplib]=true; else app_args[riplib]=false; fi
 	app_args[rv_brand]=$(toml_get "$t" rv-brand) || app_args[rv_brand]="$DEF_RV_BRAND"
 
 	app_args[excluded_patches]=$(toml_get "$t" excluded-patches) || app_args[excluded_patches]=""
@@ -122,11 +123,7 @@ for table_name in $(toml_get_table_names); do
 		app_args[dl_from]=apkmirror
 	} || app_args[apkmirror_dlurl]=""
 	if [ -z "${app_args[dl_from]:-}" ]; then abort "ERROR: no 'apkmirror_dlurl', 'uptodown_dlurl' or 'apkmonk_dlurl' option was set for '$table_name'."; fi
-	app_args[arch]=$(toml_get "$t" apkmirror-arch) && {
-		if ! isoneof "${app_args[arch]}" universal both arm64-v8a arm-v7a; then
-			abort "ERROR: arch '${app_args[arch]}' is not a valid option for '${table_name}': only 'universal', 'arm64-v8a', 'arm-v7a', 'both' is allowed"
-		fi
-	} || app_args[arch]="universal"
+	app_args[arch]=$(toml_get "$t" apkmirror-arch) || app_args[arch]="universal"
 	app_args[include_stock]=$(toml_get "$t" include-stock) || app_args[include_stock]=true && vtf "${app_args[include_stock]}" "include-stock"
 	app_args[merge_integrations]=$(toml_get "$t" merge-integrations) || app_args[merge_integrations]=true && vtf "${app_args[merge_integrations]}" "merge-integrations"
 	app_args[dpi]=$(toml_get "$t" apkmirror-dpi) || app_args[dpi]="nodpi"
