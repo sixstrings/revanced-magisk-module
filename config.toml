@@ -11,10 +11,10 @@ build-mode = "both"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ytrex"
+rv-brand = "ReVanced Advanced"
 excluded-patches = "force-premium-heading custom-branding-icon-revancify-blue"
 included-patches = ""
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"YouTube-Extended]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 
 [YouTube Extended]
