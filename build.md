@@ -1,3 +1,4 @@
+YouTube-REX: 18.33.37  
 YouTubeExtended: 18.30.37  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
