@@ -1,6 +1,6 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that use this module to hide malware or other malicious stuff.
 
-[![Github All Releases](https://img.shields.io/github/downloads/sixstrings/sixstrings/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/sixstrings/revanced-extended-magisk-module/total.svg)]()
 [![Build Modules](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
