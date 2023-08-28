@@ -1,14 +1,14 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that use this module to hide malware or other malicious stuff.
 
-
+[![Github All Releases](https://img.shields.io/github/downloads/sixstrings/sixstrings/total.svg)]()
 [![Build Modules](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
-Extensive ReVanced/REX/RVX builder  
+Extensive ReVanced/REX/RVX builder. 
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-extended-magisk-module/releases).
 
-[**mindetach module**](https://github.com/j-hc/mindetach-magisk) in the releases section detaches YouTube and YouTube Music from Play Store and blocks their forced updates.
+[**mindetach module**](https://github.com/sixstrings/mindetach-magisk) in the releases section detaches YouTube and YouTube Music from Play Store and blocks their forced updates.
 
 ## Features
  * Support all present and future ReVanced and [ReVanced Extended](https://github.com/inotia00/revanced-patches) apps
