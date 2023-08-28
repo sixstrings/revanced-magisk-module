@@ -12,7 +12,7 @@ patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RevAdv"
-excluded-patches = "force-premium-heading custom-branding-icon-revancify-blue"
+excluded-patches = ""
 included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
