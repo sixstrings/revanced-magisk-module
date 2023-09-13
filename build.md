@@ -91,7 +91,7 @@ Etc
 - [YT Music](https://crowdin.com/project/revanced-music-extended)
 
 ---
-CLI: j-hc/revanced-cli-3.1.0-all.jar  
+CLI: j-hc/revanced-cli-3.2.0-all.jar  
 Integrations: ReVanced/revanced-integrations-0.117.1.apk  
 Patches: ReVanced/revanced-patches-2.190.0.jar  
 
