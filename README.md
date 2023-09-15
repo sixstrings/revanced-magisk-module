@@ -4,6 +4,7 @@
 
 [![Build Modules](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/build.yml/badge.svg)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/build.yml)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+[![Github All Releases](https://img.shields.io/github/downloads/sixstrings/revanced-magisk-module/total.svg)]()
 
 Extensive ReVanced and ReVanced Extended builder  
 
