@@ -13,6 +13,7 @@ version = "auto"                                                      # 'auto', 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
                                              # both arm64-v8a and arm-v7a
 [YouTube-Extended]
+app-name = "YouTube" 
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
