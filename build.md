@@ -7,35 +7,28 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-3.2.0-all.jar  
-Integrations: inotia00/revanced-integrations-0.117.18.apk  
-Patches: inotia00/revanced-patches-2.190.18.jar  
+Integrations: inotia00/revanced-integrations-0.117.21.apk  
+Patches: inotia00/revanced-patches-2.190.21.jar  
 
 YouTube
 ==
-- feat(youtube): add support version `v18.33.40`
-- feat(youtube/custom-speed-overlay): change patch name `hide-speed-overlay` → `custom-speed-overlay`
-- feat(youtube/custom-speed-overlay): editable speed value that changes while holding down (a/b tests)
-- feat(youtube/spoof-app-version): change some target versions
-- feat(youtube/spoof-player-parameters): update Known Issue https://github.com/inotia00/ReVanced_Extended/issues/1451
-- fix(youtube/hide-button-container): `Hide like button` and `Hide dislike button` are not integrated https://github.com/inotia00/ReVanced_Extended/issues/1454
-- fix(youtube/hide-endscreen-cards): wrong method name
-- fix(youtube/hide-layout-components): wrong description - `Hide notify me button` https://github.com/inotia00/ReVanced_Extended/issues/1436
-- fix(youtube/hide-mix-playlists): when MixPlaylists are included in my playlist (library), all playlists are hidden
-- fix(youtube/navbar-index-hook): match to PR branch
-- fix(youtube/settings): new layout does not load normally when rebooted through the reboot dialog that is shown when first installed
-- fix(youtube/settings): remove unused code
-- fix(youtube/settings): some patch descriptions and settings are not properly labeled https://github.com/inotia00/ReVanced_Extended/issues/1407
-- fix(youtube/spoof-player-parameters): fix some bugs https://github.com/inotia00/ReVanced_Extended/issues/1437 https://github.com/inotia00/ReVanced_Extended/issues/1444 https://github.com/inotia00/ReVanced_Extended/issues/1449 
+- feat(youtube/hide-button-container): remove `Hide live chat button` settings (no longer exists in the button container)
+- feat(youtube/overlay-buttons): apply radio button instead of list view in playback speed dialog
+- feat(youtube/swipe-controls): remove `press-to-swipe gesture` settings (fix https://github.com/inotia00/ReVanced_Extended/issues/517)
+- feat(youtube/swipe-controls): remove `save and restore brightness` settings
+- fix(youtube/hide-filmstrip-overlay): filmstrip overlay is always hidden in YouTube v18.33.40 https://github.com/inotia00/ReVanced_Extended/issues/1463
+- fix(youtube/litho-filter): exception occurs when only patches that use LowlevelFilter are included
+- fix(youtube/navber-index-hook): patch fails on some versions
+- fix(youtube/overlay-buttons): overlay buttons are not hidden when swiping the seekbar with new thumbnail preview enabled https://github.com/inotia00/ReVanced_Extended/issues/1438
 - feat(youtube/translations): update translation
-`Arabic`, `Bengali`, `Chinese Traditional`, `French`, `Greek`, `Hungarian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Ukrainian`, `Vietnamese`
+`Chinese Traditional`, `French`, `Greek`, `Hungarian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Vietnamese`
 
 
 YouTube Music
 ==
-- fix(music/enable-playback-speed): excluding enable playback speed patch still shows playback speed icon in the flyout menu https://github.com/inotia00/ReVanced_Extended/issues/1458
-- fix(music/hook-download-button): change the URL format used when launching external downloads https://github.com/inotia00/ReVanced_Extended/issues/1460
+- feat(music/enable-playback-speed): apply radio button instead of list view in playback speed dialog
 - feat(music/translations): update translation
-`Brazilian`, `Dutch`, `Greek`, `Italian`, `Korean`, `Polish`, `Russian`
+`Chinese Traditional`, `Japanese`, `Vietnamese`
 
 
 ※ Compatible ReVanced Manager: [RVX Manager v1.10.3 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.10.3)
