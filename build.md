@@ -1,4 +1,4 @@
-Revanced-Extended: 18.33.40  
+YouTube-Extended: 18.33.40  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
