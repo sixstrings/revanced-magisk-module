@@ -5,7 +5,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 
-[Revanced-Extended]
+[YouTube -Extended]
 app-name = "YouTube"
 build-mode = "module"
 patches-source = "inotia00/revanced-patches"
