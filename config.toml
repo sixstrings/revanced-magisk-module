@@ -6,10 +6,11 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 
 [YouTube-Extended]
+app-name = "YouTube"
 build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "Extended"
+rv-brand = "ReVanced Extended"
 excluded-patches = "'Add splash animation' 'Custom branding icon MMT' 'Custom branding icon Revancify blue' 'Custom branding icon Revancify red' 'Custom package name'"
 
