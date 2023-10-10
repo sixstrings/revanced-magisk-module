@@ -1,4 +1,3 @@
-YouTube-Extended: 18.33.40  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -6,44 +5,43 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
-CLI: inotia00/revanced-cli-3.1.4-all.jar  
-Integrations: inotia00/revanced-integrations-0.117.24.apk  
-Patches: inotia00/revanced-patches-2.190.24.jar  
+CLI: j-hc/revanced-cli-4.0.1-all.jar  
+Integrations: inotia00/revanced-integrations-0.119.4.apk  
+Patches: inotia00/revanced-patches-2.193.4.jar  
 
 YouTube
 ==
-- feat(youtube/default-video-quality): add `Skip dummy segment` setting (Experimental Flags)
-- feat(youtube/litho-filter): commit reflected from official ReVanced
-- feat(youtube/video-id): removes unnecessary fingerprints
-- fix(youtube/disable-haptic-feedback): force close occurs in YouTube v18.27.36
-- fix(youtube/enable-minimized-playback): change the method by which patches are applied
-- fix(youtube/overlay-buttons): radio buttons in speed dialog always remember last selected value https://github.com/inotia00/ReVanced_Extended/issues/1484
-- fix(youtube/swipe-controls): auto brightness value is not loaded properly https://github.com/inotia00/ReVanced_Extended/issues/1483
-- rollback(youtube/hide-shorts-components): rollback hide the shorts shelf in search results (sometimes they hide the shorts section in the channel information)
-- feat(youtube/translations): update translation
-`Arabic`, `Brazilian`, `Bulgarian`, `Chinese Traditional`, `French`, `Hungarian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Ukrainian`, `Vietnamese`
+- fix(YouTube/Custom playback speed): incorrect warning message https://github.com/inotia00/ReVanced_Extended/issues/1490
+- fix(YouTube/Enable minimized playback): headphones button missing in PiP https://github.com/inotia00/ReVanced_Extended/issues/1501
+- fix(YouTube/Enable minimized playback): notification miniplayer don't resume video just stop it https://github.com/inotia00/ReVanced_Extended/issues/1502
+- fix(YouTube/Hide Suggestions Shelf): content is not hidden https://github.com/inotia00/ReVanced_Extended/issues/1497
+- fix(YouTube/Overlay buttons): External downloader settings throws exception https://github.com/inotia00/ReVanced_Extended/issues/1443
+- fix(YouTube/Settings): When importing settings, settings related to external downloaders are not imported properly
+- feat(YouTube/Alternative thumbnails): add `Using DeArrow API` settings https://github.com/inotia00/revanced-patches/pull/23
+- feat(YouTube/Spoof app version): add target version `18.01.38` - remove 'Comments by members' banner
+- feat(YouTube/Spoof player parameters): add `Spoof player parameter in feed` settings https://github.com/inotia00/ReVanced_Extended/issues/1505
+- feat(YouTube/Translations): update translation
+`Arabic`, `Bulgarian`, `French`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Ukrainian`, `Vietnamese`
 
 
 YouTube Music
 ==
-- feat(music): add support version `v6.22.51`
-- feat(music/litho-filter): commit reflected from official ReVanced
-- feat(music/replace-cast-button): change setting description
-- feat(music/video-information): removes unnecessary fingerprints
-- fix(music/enable-playback-speed): radio buttons in speed dialog always remember last selected value https://github.com/inotia00/ReVanced_Extended/issues/1484
-- fix(music/hook-download-button): slightly improved action bar loading time
-- fix(music/player-type-hook): player type is not hooked properly
-- fix(music/return-youtube-dislike): wrong layout applied in RTL layout https://github.com/inotia00/ReVanced_Extended/issues/1475
-- feat(music/translations): update translation
-`Greek`, `Russian`
+- fix(YouTube Music/Custom playback speed): incorrect warning message https://github.com/inotia00/ReVanced_Extended/issues/1490
+- fix(YouTube Music/Settings): sometimes ListPreference fails to select saved values
+- feat(YouTube Music/Spoof app version): add target version `6.10.51` - disable real time lyrics https://github.com/inotia00/ReVanced_Extended/issues/1355
+- feat(YouTube Music/Translations): update translation
+`Brazilian`, `Korean`, `Polish`, `Russian`, `Spanish`, `Turkish`, `Vietnamese`
 
 
 Etc
 ==
 - build: bump dependencies
+- build: bump patcher to `17.0.0`
+- **For RVX Manager users, you need to update RVX Manager**
+- **RVX Builder users must also update RVX Builder**
 
 
-※ Compatible ReVanced Manager: [RVX Manager v1.10.3 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.10.3)
+※ Compatible ReVanced Manager: [RVX Manager v1.11.3 (fork)](https://github.com/inotia00/revanced-manager/releases/tag/v1.11.3)
 [Crowdin translation]
 - [YouTube/European Countries](https://crowdin.com/project/revancedextendedeu)
 - [YouTube/Other Countries](https://crowdin.com/project/revancedextended)
