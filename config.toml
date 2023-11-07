@@ -7,7 +7,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-enabled = "false"
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -20,6 +19,7 @@ app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
+excluded-patches = "custom branding icon Revancify Blue"
 rv-brand = "Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
