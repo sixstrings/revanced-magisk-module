@@ -1,4 +1,4 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses this modules and impersonates ReVanced.
 
 # ReVanced Extended Magisk Module
 
@@ -31,7 +31,7 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
 ## To include/exclude patches or patch other apps
 [**See the list of patches**](https://j-hc.github.io/rvmm-config-gen/)
 
- * Star the repo :eyes:
+ * Star the repo 
  * [Fork the repo](https://github.com/j-hc/revanced-magisk-module/fork) or use it as a template
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
