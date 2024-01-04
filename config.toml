@@ -13,8 +13,8 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "Extended"
 build-mode = "module"
-included-patches = "'Premium heading'"
-excluded-patches = "'Custom branding icon Revancify Blue' 'MicroG support'"
+included-patches = ""
+excluded-patches = ""
 
 
 
