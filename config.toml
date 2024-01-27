@@ -16,5 +16,13 @@ build-mode = "module"
 included-patches = ""
 excluded-patches = ""
 
+[YouTube]
+app-name = "YouTube"
+build-mode = "module"
+excluded-patches = ""
+included-patches = ""
+version = "auto"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 
