@@ -12,3 +12,10 @@ included-patches = ""
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
+[YouTube]
+build-mode = "module"
+excluded-patches = ""
+included-patches = ""
+version = "19.12.37"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
