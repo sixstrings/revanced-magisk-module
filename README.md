@@ -1,7 +1,6 @@
 # ReVanced Magisk YouTube Module
 
-# Get your module in the releases section.
-[Release](https://github.com/sixstrings/yt-revanced-magisk-module/releases)
+# Get your module in the [Release](https://github.com/sixstrings/yt-revanced-magisk-module/releases) Section 
 
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
