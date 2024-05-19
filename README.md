@@ -1,5 +1,7 @@
 # ReVanced Magisk YouTube Module
 
+# Get your module in the releases section below.
+
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced builder for YouTube.
