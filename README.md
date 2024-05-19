@@ -2,9 +2,7 @@
 
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
-Extensive ReVanced builder for YouTube 
-
-Get the [latest CI release](https://github.com/sixstringer/revanced-magisk-module/releases).
+Extensive ReVanced builder for YouTube.
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
