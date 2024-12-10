@@ -1,6 +1,5 @@
 # ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/sixstringer/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/sixstringer/revanced-magisk-module/actions/workflows/ci.yml)
+
 
 Extensive ReVanced builder  
 
