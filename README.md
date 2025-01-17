@@ -4,7 +4,7 @@
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/sixstrings/yt-revanced-magisk-module/blob/main/README.md).
+Get the [latest CI release](https://github.com/sixstrings/yt-revanced-magisk-module).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
