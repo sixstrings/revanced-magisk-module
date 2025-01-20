@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (98)",
-  "versionCode": 98,
-  "zipUrl": "https://github.com/sixstrings/yt-revanced-magisk-module/releases/download/98/youtube-revanced-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches: 5.9.0)",
+  "versionCode": 99,
+  "zipUrl": "https://github.com/sixstrings/yt-revanced-magisk-module/releases/download/99/youtube-revanced-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/yt-revanced-magisk-module/update/build.md"
 }
