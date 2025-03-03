@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.12.0)",
-  "versionCode": 102,
-  "zipUrl": "https://github.com/sixstrings/yt-revanced-magisk-module/releases/download/102/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.13.0)",
+  "versionCode": 103,
+  "zipUrl": "https://github.com/sixstrings/yt-revanced-magisk-module/releases/download/103/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/yt-revanced-magisk-module/update/build.md"
 }
