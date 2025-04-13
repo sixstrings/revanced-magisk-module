@@ -29,7 +29,7 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
-[Spotify]
+[Spotify Lite]
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 version = "9.0.36.683"
 
