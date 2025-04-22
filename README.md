@@ -1,4 +1,4 @@
-# ReVanced Magisk Module
+# ReVanced Magisk Modules
 
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
