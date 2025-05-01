@@ -7,7 +7,7 @@ on:
         required: false
         default: true
 
-  workflow_dispatch:
+  workflow_dispatch: - cron: "0 16 * * */2"
 
 jobs:
   run:
