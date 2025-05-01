@@ -1,6 +1,6 @@
 {
-  "version": "v7.26.0.749619146 (patches: 5.21.0)",
-  "versionCode": 112,
-  "zipUrl": "https://github.com/sixstrings/yt-revanced-magisk-module/releases/download/112/googlephotos-revanced-magisk-v7.26.0.749619146-arm64-v8a.zip",
+  "version": "v7.27.0.752466078 (patches: 5.22.0)",
+  "versionCode": 113,
+  "zipUrl": "https://github.com/sixstrings/yt-revanced-magisk-module/releases/download/113/googlephotos-revanced-magisk-v7.27.0.752466078-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/yt-revanced-magisk-module/update/build.md"
 }
