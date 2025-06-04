@@ -2,7 +2,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
 [![CI](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml)
 
-Extensive ReVanced builder  
+### Extensive ReVanced builder  
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-magisk-module/releases).
 
