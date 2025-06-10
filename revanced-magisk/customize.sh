@@ -182,4 +182,4 @@ fi
 
 ui_print "* Done"
 ui_print "  by j-hc (github.com/j-hc)"
-ui_print " "
+ui_print "  forked by Wolfcity (github.co./sixstringer)"
