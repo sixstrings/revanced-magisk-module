@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches 5.39.0)",
-  "versionCode": 133,
-  "zipUrl": "https://github.com/sixstrings/revanced-magisk-module/releases/download/133/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.14.43 (patches 5.40.0)",
+  "versionCode": 134,
+  "zipUrl": "https://github.com/sixstrings/revanced-magisk-module/releases/download/134/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/revanced-magisk-module/update/build.md"
 }
