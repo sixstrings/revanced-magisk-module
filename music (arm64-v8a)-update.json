@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.45.0)",
-  "versionCode": 142,
-  "zipUrl": "https://github.com/sixstrings/revanced-magisk-module/releases/download/142/music-revanced-magisk-v8.10.52-arm64-v8a.zip",
+  "version": "v8.10.52 (patches 5.46.0)",
+  "versionCode": 143,
+  "zipUrl": "https://github.com/sixstrings/revanced-magisk-module/releases/download/143/music-revanced-magisk-v8.10.52-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/revanced-magisk-module/update/build.md"
 }
