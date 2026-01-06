@@ -16,7 +16,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Music]
+[YT-Music]
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -48,7 +48,7 @@ build-mode = "both"
 
 
 #RVX
-[Music-Extended]
+[YT-Music-Extended]
 enabled = true
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
