@@ -1,7 +1,7 @@
-# ReVanced Magisk Modules & APKs
+# ReVanced and Morphe Magisk Modules & APKs
 [![CI](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml)
 
-### Extensive ReVanced builder  
+### Extensive ReVanced & Morphe builder  
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-magisk-module/releases).
 
