@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 #Revanced
-[YouTube Revanced]
+[YouTube]
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -17,7 +17,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 rv-brand = "revanced"        # eindeutiger Release-Name für ReVanced-YouTube
 
-[YT-Music Revanced]
+[YT-Music]
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -25,7 +25,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 rv-brand = "revanced"       # eindeutiger Release-Name für ReVanced-YT Music
 
-[GooglePhotos Revanced]
+[GooglePhotos]
 enabled = false
 build-mode = "both"
 arch = "both"
