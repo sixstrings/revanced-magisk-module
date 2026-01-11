@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.47.0)",
-  "versionCode": 146,
-  "zipUrl": "https://github.com/sixstrings/revanced-magisk-module/releases/download/146/youtube-revanced-magisk-v20.14.43-all.zip",
-  "changelog": "https://raw.githubusercontent.com/sixstrings/revanced-magisk-module/update/build.md"
+  "version": "v20.14.43 (patches 5.47.0.rvp)",
+  "versionCode": 150,
+  "zipUrl": "https://github.com/sixstrings/revanced-morphe-magisk-module/releases/download/150/youtube-revanced-magisk-v20.14.43-all.zip",
+  "changelog": "https://raw.githubusercontent.com/sixstrings/revanced-morphe-magisk-module/update/build.md"
 }
