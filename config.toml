@@ -36,14 +36,14 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 rv-brand = "revanced"  # eindeutiger Release-Name für Google Photos (disabled)
 
 #Morphe
-[YouTube-Morphe]
+[YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 build-mode = "both"
 rv-brand = "morphe"          # eindeutiger Release-Name für Morphe-YouTube
 
-[YT-Music-Morphe]
+[YT-Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
