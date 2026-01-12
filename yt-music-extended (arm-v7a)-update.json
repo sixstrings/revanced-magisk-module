@@ -1,6 +1,6 @@
 {
   "version": "v8.30.54 (patches 5.14.1.rvp)",
-  "versionCode": 150,
-  "zipUrl": "https://github.com/sixstrings/revanced-morphe-magisk-module/releases/download/150/music-rvx-magisk-v8.30.54-arm-v7a.zip",
+  "versionCode": 151,
+  "zipUrl": "https://github.com/sixstrings/revanced-morphe-magisk-module/releases/download/151/music-rvx-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/sixstrings/revanced-morphe-magisk-module/update/build.md"
 }
