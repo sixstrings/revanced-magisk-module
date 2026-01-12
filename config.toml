@@ -25,7 +25,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 rv-brand = "revanced"       # eindeutiger Release-Name für ReVanced-YT Music
 
-[GooglePhotos]
+[GooglePhotos-Revanced]
 enabled = false
 build-mode = "both"
 arch = "both"
@@ -54,7 +54,7 @@ rv-brand = "morphe"         # eindeutiger Release-Name für Morphe-YT Music
 
 #RVX
 [YT-Music-Extended]
-enabled = true
+enabled = false
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
@@ -64,7 +64,7 @@ arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
-enabled = true
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
