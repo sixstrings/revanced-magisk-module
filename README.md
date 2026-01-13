@@ -1,7 +1,7 @@
 # Morphe & Revanced: Magisk/KSU Modules + APKs
 [![CI](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml)
 
-### Extensive ReVanced & Morphe builder  
+### Extensive Morphe & Revanced builder  
 
 Get the [latest CI release](https://github.com/sixstrings/revanced-magisk-module/releases).
 
