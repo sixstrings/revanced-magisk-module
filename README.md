@@ -1,4 +1,4 @@
-# ReVanced and Morphe: Magisk Modules - APKs
+# Morphe and Revanced: Building Magisk Modules - APKs
 [![CI](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/sixstrings/revanced-magisk-module/actions/workflows/ci.yml)
 
 ### Extensive ReVanced & Morphe builder  
