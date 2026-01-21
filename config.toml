@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 #Revanced
 [YouTube-Revanced]
-app-name = "YouTube Revanced"
+app-name = "YouTube"
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -19,7 +19,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 rv-brand = "Revanced"        # eindeutiger Release-Name für ReVanced-YouTube
 
 [YT-Music-Revanced]
-app-name = "YouTube Music Revanced"
+app-name = "YT Music"
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -28,7 +28,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 rv-brand = "Revanced"       # eindeutiger Release-Name für ReVanced-YT Music
 
 [GooglePhotos-Revanced]
-app-name = "Photos Revanced"
+app-name = "Photos"
 enabled = false
 build-mode = "both"
 arch = "both"
@@ -40,7 +40,7 @@ rv-brand = "Revanced"
 
 #Morphe
 [YouTube-Morphe]
-app-name = "YouTube Morphe"
+app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -48,7 +48,7 @@ build-mode = "both"
 rv-brand = "Morphe"
 
 [YT-Music-Morphe]
-app-name = "YouTube Music Morphe"
+app-name = "YT Music"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
